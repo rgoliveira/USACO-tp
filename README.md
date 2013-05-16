@@ -1,4 +1,4 @@
 USACO-tp
 ========
 
-My USACO (http://www.usaco.org/) training submissions.
+My USACO (http://www.usaco.org/) training program submissions.
